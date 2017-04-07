@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Grades</string>
+    <string name="numberOfGradesTextView">Number of \n grades:</string>
+    <string name="surnameTextView">Surname:</string>
+    <string name="nameTextView">Name:</string>
+
+    <string name="sendButton">Send!</string>
 </resources>
