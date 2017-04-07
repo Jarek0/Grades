@@ -5,4 +5,11 @@
     <string name="nameTextView">Name:</string>
 
     <string name="sendButton">Send!</string>
+
+
+    <string name="gradesActivity">Grades:</string>
+
+    <string name="groupOfGradesTextView">Choose degree:</string>
+
+    <string name="returnButton">Return</string>
 </resources>
